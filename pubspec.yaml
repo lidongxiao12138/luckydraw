@@ -40,6 +40,10 @@ dependencies:
   assets_audio_player: ^3.0.6
   scan_gun: ^2.0.0 #实现扫码枪获取数据源，禁止系统键盘弹窗
   shared_preferences: ^2.0.16 #本地包的储存
+  dio: ^4.0.6 #网络请求
+  json_serializable: ^6.5.4 #json 模型
+  build_runner: ^2.3.3
+  json_annotation: ^4.7.0
 
 dev_dependencies:
   flutter_test:
